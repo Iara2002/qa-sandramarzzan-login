@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧪 Test Automatizado: Login de Distribuidores Sandra Marzzan
 
 Este proyecto automatiza el flujo de login del sitio de distribuidores de Sandra Marzzan utilizando Python y Selenium WebDriver.
