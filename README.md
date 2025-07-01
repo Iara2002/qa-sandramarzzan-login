@@ -73,25 +73,25 @@ Verificar que el formulario de acceso de la web funcione correctamente ante dife
 
 ### 🖼️ Caso 1: Usuario vacío
 
-![Error usuario vacío](screenshots/resultado_error_usuario.png)
+![Error usuario vacío](resultado_error_usuario.png)
 
 ---
 
 ### 🖼️ Caso 2: Contraseña vacía
 
-![Error contraseña vacía](screenshots/resultado_error_contraseña.png)
+![Error contraseña vacía](resultado_error_contraseña.png)
 
 ---
 
 ### 🖼️ Caso 3: Login inválido
 
-![Login inválido](screenshots/resultado_login_invalido.png)
+![Login inválido](resultado_login_invalido.png)
 
 ---
 
 ### 🖼️ Caso 4: Login válido
 
-![Login exitoso](screenshots/resultado_login.png)
+![Login exitoso](resultado_login.png)
 
 ---
 
