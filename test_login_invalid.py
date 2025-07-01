@@ -26,4 +26,7 @@ def probar_login(usuario, contraseña, nombre_archivo):
 probar_login("", "clave_prueba", "resultado_error_usuario.png")
 
 # 🔴 Caso 2: Contraseña vacía
-probar_login("usuario_prueba", "", "resultado_error_contraseña.png")
+probar_login("usuario_prueba@mail.com", "", "resultado_error_contraseña.png")
+
+# 🔴 Caso 3: Usuario y contraseña inválidos (usuario mal formado o credenciales incorrectas)
+probar_login("usuario_invalido@mail.com", "clave_invalida", "resultado_login_invalido.png")
